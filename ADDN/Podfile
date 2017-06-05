@@ -1,0 +1,10 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '10.0'
+use_frameworks!
+
+target ‘ADDN’ do
+	pod 'Alamofire', '~> 4.4'
+    pod 'JTAppleCalendar', '~> 7.0'
+    pod ’SwiftGifOrigin’, '~> 1.6.1'
+    pod ‘Charts’
+end

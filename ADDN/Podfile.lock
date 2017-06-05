@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (4.4.0)
+  - Charts (3.0.2):
+    - Charts/Core (= 3.0.2)
+  - Charts/Core (3.0.2)
+  - JTAppleCalendar (7.0.2)
+  - SwiftGifOrigin (1.6.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - Charts
+  - JTAppleCalendar (~> 7.0)
+  - SwiftGifOrigin (~> 1.6.1)
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  Charts: 236d6ccdd0ce6feae151d89e829a7397381a21fd
+  JTAppleCalendar: c14685634064ef67a68209548ff3443208af48a3
+  SwiftGifOrigin: d6679d3ebe9df2e049a84bc52582635107b581f6
+
+PODFILE CHECKSUM: b412fb3c2cf939187df9fe9ed56896d7460284a9
+
+COCOAPODS: 1.2.1
